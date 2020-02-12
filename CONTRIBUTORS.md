@@ -71,3 +71,4 @@ Please follow this template:
 - Agnieszka Wozniak | https://github.com/woziu17 | WOZIU#4233
 - Mobasergio | https://github.com/mobasergio | Nytz#7425
 - Domantas Bazys | https://github.com/DomantasBazys | Domantuxazz#4934
+- Maxy | https://github.com/MaxyQiu | MaxyQiu#5596
